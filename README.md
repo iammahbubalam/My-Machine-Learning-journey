@@ -1,10 +1,5 @@
 # 🚀 Comprehensive Machine Learning Roadmap 2024
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Level-All_Levels-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Duration-12_Months-red?style=for-the-badge">
-</div>
 
 ## 🎯 Introduction
 
