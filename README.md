@@ -41,9 +41,7 @@ Welcome to the comprehensive Machine Learning, Deep Learning, and AI roadmap! Th
 - Key Applications of ML in Vision, NLP, and Healthcare  
 - Steps in a Machine Learning Workflow  
 - Practical Project: Predict House Prices
-- Recommended Resources:
-  - [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
-  - [Fast.ai Practical Deep Learning](https://course.fast.ai/)
+
 
 ### 2. Python for Machine Learning
 - Core Libraries:  
