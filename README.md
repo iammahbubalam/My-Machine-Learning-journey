@@ -1,4 +1,4 @@
-# 🚀 Comprehensive Machine Learning Roadmap 2024
+# 🚀 Comprehensive Machine Learning Roadmap 2025
 
 
 ## 🎯 Introduction
